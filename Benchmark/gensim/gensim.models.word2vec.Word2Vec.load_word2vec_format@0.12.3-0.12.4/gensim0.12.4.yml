@@ -1,0 +1,43 @@
+name: gensim0.12.4
+channels:
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2/linux-64
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/linux-64/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/linux-64/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/Paddle/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/fastai/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda/
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - ca-certificates=2023.08.22=h06a4308_0
+  - certifi=2020.6.20=pyhd3eb1b0_3
+  - ld_impl_linux-64=2.38=h1181459_1
+  - libffi=3.3=he6710b0_2
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - ncurses=6.4=h6a678d5_0
+  - openssl=1.1.1w=h7f8727e_0
+  - pip=9.0.1=py36_1
+  - python=3.6.13=h12debd9_1
+  - readline=8.2=h5eee18b_0
+  - setuptools=36.4.0=py36_1
+  - sqlite=3.41.2=h5eee18b_0
+  - tk=8.6.12=h1ccaba5_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.4.2=h5eee18b_0
+  - zlib=1.2.13=h5eee18b_0
+  - pip:
+      - dill==0.3.4
+      - gensim==0.12.4
+      - numpy==1.9.3
+      - scipy==0.16.1
+      - six==1.16.0
+      - smart-open==6.4.0
+prefix: /dataset/zhang/anaconda3/envs/gensim0.12.4

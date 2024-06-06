@@ -1,0 +1,3 @@
+import pandas as pd
+df = pd.DataFrame({'categorical': pd.Categorical(['d', 'e', 'f']), 'numeric': [1, 2, 3], 'object': ['a', 'b', 'c']})
+df.describe(None,  None,  None, datetime_is_numeric=False)

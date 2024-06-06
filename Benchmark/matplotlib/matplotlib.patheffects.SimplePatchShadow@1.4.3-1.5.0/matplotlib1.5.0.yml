@@ -1,0 +1,45 @@
+name: matplotlib1.5.0
+channels:
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2/linux-64
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/linux-64/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/linux-64/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/Paddle/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/fastai/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda/
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - ca-certificates=2023.08.22=h06a4308_0
+  - certifi=2020.6.20=pyhd3eb1b0_3
+  - ld_impl_linux-64=2.38=h1181459_1
+  - libffi=3.4.4=h6a678d5_0
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - ncurses=6.4=h6a678d5_0
+  - openssl=1.0.2u=h7b6447c_0
+  - pip=9.0.1=py35_1
+  - python=3.5.4=0
+  - readline=6.2=2
+  - setuptools=36.4.0=py35_1
+  - sqlite=3.13.0=0
+  - tk=8.5.18=0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.3=0
+  - zlib=1.2.13=h5eee18b_0
+  - pip:
+      - cycler==0.10.0
+      - dill==0.3.4
+      - matplotlib==1.5.0
+      - numpy==1.18.5
+      - pyparsing==2.4.7
+      - python-dateutil==2.8.2
+      - pytz==2023.3.post1
+      - six==1.16.0
+prefix: /dataset/zhang/anaconda3/envs/matplotlib1.5.0

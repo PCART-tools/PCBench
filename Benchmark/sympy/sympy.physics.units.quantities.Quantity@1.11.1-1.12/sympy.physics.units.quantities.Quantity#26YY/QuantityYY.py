@@ -1,0 +1,2 @@
+from sympy.physics.units import Quantity, length
+velocity = Quantity('velocity', abbrev=None, dimension=None, scale_factor=None, latex_repr=None, pretty_unicode_repr=None)

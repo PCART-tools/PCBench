@@ -1,0 +1,55 @@
+name: tensorflow1.11.0
+channels:
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2/linux-64
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/linux-64/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/linux-64/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/Paddle/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/fastai/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda/
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - ca-certificates=2023.05.30=h06a4308_0
+  - certifi=2021.5.30=py36h06a4308_0
+  - ld_impl_linux-64=2.38=h1181459_1
+  - libffi=3.3=he6710b0_2
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - ncurses=6.3=h7f8727e_2
+  - openssl=1.1.1u=h7f8727e_0
+  - pip=21.2.2=py36h06a4308_0
+  - python=3.6.13=h12debd9_1
+  - readline=8.1.2=h7f8727e_1
+  - sqlite=3.38.5=hc218d9a_0
+  - tk=8.6.12=h1ccaba5_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.5=h7f8727e_1
+  - zlib=1.2.12=h7f8727e_2
+  - pip:
+      - absl-py==1.4.0
+      - astor==0.8.1
+      - cached-property==1.5.2
+      - dataclasses==0.8
+      - dill==0.3.4
+      - gast==0.5.4
+      - grpcio==1.48.2
+      - h5py==3.1.0
+      - importlib-metadata==4.8.3
+      - keras-applications==1.0.8
+      - keras-preprocessing==1.1.2
+      - markdown==3.3.7
+      - numpy==1.19.5
+      - protobuf==3.19.6
+      - setuptools==39.1.0
+      - six==1.16.0
+      - tensorboard==1.11.0
+      - tensorflow==1.11.0
+      - termcolor==1.1.0
+      - typing-extensions==4.1.1
+      - werkzeug==2.0.3
+      - zipp==3.6.0
+prefix: /dataset/zhang/anaconda3/envs/tensorflow1.11.0

@@ -1,0 +1,35 @@
+name: numpy1.18.5
+channels:
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2/linux-64
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/linux-64/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/linux-64/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/Paddle/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/fastai/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda/
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - ca-certificates=2023.05.30=h06a4308_0
+  - ld_impl_linux-64=2.38=h1181459_1
+  - libffi=3.3=he6710b0_2
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - ncurses=6.3=h7f8727e_2
+  - openssl=1.1.1u=h7f8727e_0
+  - pip=23.1.2=py38h06a4308_0
+  - python=3.8.13=h12debd9_0
+  - readline=8.1.2=h7f8727e_1
+  - setuptools=67.8.0=py38h06a4308_0
+  - sqlite=3.38.5=hc218d9a_0
+  - tk=8.6.12=h1ccaba5_0
+  - wheel=0.38.4=py38h06a4308_0
+  - xz=5.2.5=h7f8727e_1
+  - zlib=1.2.12=h7f8727e_2
+  - pip:
+      - dill==0.3.6
+      - numpy==1.18.5
+prefix: /dataset/zhang/anaconda3/envs/numpy1.18.5

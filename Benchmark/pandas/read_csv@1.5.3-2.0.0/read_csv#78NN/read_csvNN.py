@@ -1,0 +1,2 @@
+import pandas as pd
+pd.read_csv('/home/zhang/Packages/tensorflow_file/dev.csv', false_values=None, index_col=None, names=None, squeeze=None, prefix=None, converters=None, keep_date_col=False, verbose=False, skipinitialspace=False, mangle_dupe_cols=True, skip_blank_lines=True, na_values=None, parse_dates=None, engine=None, skiprows=None, usecols=None, infer_datetime_format=False, keep_default_na=True, skipfooter=0, nrows=None, delimiter=None, true_values=None, sep=',', na_filter=True, header='infer', date_parser=None, dtype=None)

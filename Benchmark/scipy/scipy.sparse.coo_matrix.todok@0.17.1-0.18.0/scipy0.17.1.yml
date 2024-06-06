@@ -1,0 +1,41 @@
+name: scipy0.17.1
+channels:
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2/linux-64
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/linux-64/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/linux-64/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/Paddle/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/fastai/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda/
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - ca-certificates=2023.12.12=h06a4308_0
+  - certifi=2020.6.20=pyhd3eb1b0_3
+  - ld_impl_linux-64=2.38=h1181459_1
+  - libffi=3.3=he6710b0_2
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - ncurses=6.4=h6a678d5_0
+  - openssl=1.0.1k=1
+  - pip=9.0.1=py34_1
+  - python=3.4.1=1
+  - readline=6.2=2
+  - setuptools=27.2.0=py34_0
+  - sqlite=3.13.0=0
+  - system=5.8=2
+  - tk=8.5.18=0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.4.5=h5eee18b_0
+  - zlib=1.2.13=h5eee18b_0
+  - pip:
+      - dill==0.3.4
+      - numpy==1.16.6
+      - scipy==0.17.1
+prefix: /dataset/zhang/anaconda3/envs/scipy0.17.1

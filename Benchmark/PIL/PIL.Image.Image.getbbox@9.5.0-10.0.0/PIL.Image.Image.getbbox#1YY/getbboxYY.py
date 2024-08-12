@@ -1,3 +1,3 @@
 from PIL import Image
-img = Image.open('/home/zhang/example.jpg')
+img = Image.open('example.jpg')
 bbox = img.getbbox()

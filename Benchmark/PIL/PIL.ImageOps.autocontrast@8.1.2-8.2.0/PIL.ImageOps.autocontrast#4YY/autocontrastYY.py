@@ -1,3 +1,3 @@
 from PIL import ImageOps, Image
-image = Image.open('/home/zhang/example.jpg')
+image = Image.open('example.jpg')
 result = ImageOps.autocontrast(image, cutoff=0)

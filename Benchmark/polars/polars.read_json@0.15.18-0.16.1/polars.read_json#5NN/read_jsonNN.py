@@ -1,2 +1,2 @@
 import polars as pl
-df = pl.read_json(file='/home/zhang/output.json', json_lines=None)
+df = pl.read_json(file='output.json', json_lines=None)

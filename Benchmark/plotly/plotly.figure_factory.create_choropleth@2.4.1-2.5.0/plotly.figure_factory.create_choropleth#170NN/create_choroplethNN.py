@@ -2,7 +2,7 @@ import plotly.plotly as py
 import plotly.figure_factory as ff
 import numpy as np
 import pandas as pd
-df_sample = pd.read_csv('/home/zhang/Documents/minoritymajority.csv')
+df_sample = pd.read_csv('minoritymajority.csv')
 df_sample_r = df_sample[df_sample['STNAME'] == 'Florida']
 values = df_sample_r['TOT_POP'].tolist()
 fips = df_sample_r['FIPS'].tolist()

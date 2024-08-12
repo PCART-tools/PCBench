@@ -1,0 +1,9 @@
+{
+    "projPath": "/home/zhang/Projects/transformers/GODEL",
+    "runCommand": "python GODEL/train.py --model_name_or_path /home/zhang/Projects/transformers/GODEL/GODEL/model --dataset_name /home/zhang/Projects/transformers/GODEL/examples/dstc9/dstc9_dataset.py --output_dir /home/zhang/Projects/transformers/GODEL/examples/dstc9/ckpt",
+    "libName": "transformers",
+    "currentVersion": "4.17.0",
+    "targetVersion": "4.18.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/GODEL",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/GODEL-4.18.0"
+}

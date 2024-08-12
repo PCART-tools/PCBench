@@ -1,2 +1,2 @@
 import numpy as np
-data = np.loadtxt('/home/zhang/Packages/data.txt',  float, like=None, comments='#', delimiter=',')
+data = np.loadtxt('data.txt',  float, like=None, comments='#', delimiter=',')

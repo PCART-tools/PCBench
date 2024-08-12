@@ -1,2 +1,2 @@
 import pandas as pd
-pd.read_csv(filepath_or_buffer='/home/zhang/Packages/tensorflow_file/dev.csv', skipfooter=0)
+pd.read_csv(filepath_or_buffer='dev.csv', skipfooter=0)

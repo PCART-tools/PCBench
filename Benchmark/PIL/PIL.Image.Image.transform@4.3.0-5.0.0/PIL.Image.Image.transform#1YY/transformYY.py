@@ -1,5 +1,5 @@
 from PIL import Image
-image = Image.open('/home/zhang/example.jpg')
+image = Image.open('example.jpg')
 size = (300, 300)
 method = Image.QUAD
 data = (0, 0, 100, 0, 100, 100, 0, 100)

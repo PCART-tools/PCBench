@@ -1,0 +1,15 @@
+Hello world
+Gensim is a useful library
+FastText provides word embeddings
+Hello world
+Gensim is a useful library
+FastText provides word embeddings
+Hello world
+Gensim is a useful library
+FastText provides word embeddings
+Hello world
+Gensim is a useful library
+FastText provides word embeddings
+Hello world
+Gensim is a useful library
+FastText provides word embeddings

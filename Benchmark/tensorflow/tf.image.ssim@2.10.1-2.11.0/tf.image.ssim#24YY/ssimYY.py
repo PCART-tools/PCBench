@@ -1,6 +1,6 @@
 import tensorflow as tf
-im1 = tf.image.decode_image(tf.io.read_file('/home/zhang/Packages/tensorflow_file/better_last.png'))
-im2 = tf.image.decode_image(tf.io.read_file('/home/zhang/Packages/tensorflow_file/better_last.png'))
+im1 = tf.image.decode_image(tf.io.read_file('better_last.png'))
+im2 = tf.image.decode_image(tf.io.read_file('better_last.png'))
 tf.shape(im1)
 tf.shape(im2)
 im1 = tf.expand_dims(im1, axis=0)

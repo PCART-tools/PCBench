@@ -1,2 +1,2 @@
 import pandas as pd
-pd.read_csv('/home/zhang/Packages/tensorflow_file/dev.csv', encoding_errors='strict')
+pd.read_csv('dev.csv', encoding_errors='strict')

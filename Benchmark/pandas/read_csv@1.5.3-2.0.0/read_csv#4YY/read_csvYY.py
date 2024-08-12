@@ -1,2 +1,2 @@
 import pandas as pd
-pd.read_csv('/home/zhang/Packages/tensorflow_file/dev.csv', header='infer')
+pd.read_csv('dev.csv', header='infer')

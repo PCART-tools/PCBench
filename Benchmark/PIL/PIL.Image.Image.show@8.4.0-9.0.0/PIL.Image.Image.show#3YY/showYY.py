@@ -1,3 +1,3 @@
 from PIL import Image
-image = Image.open('/home/zhang/example.jpg')
+image = Image.open('example.jpg')
 image.show(title=None)

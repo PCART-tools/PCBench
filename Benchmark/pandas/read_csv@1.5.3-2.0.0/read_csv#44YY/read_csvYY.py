@@ -1,2 +1,2 @@
 import pandas as pd
-pd.read_csv('dev.csv', dialect=None)
+pd.read_csv('./dev.csv', dialect=None)

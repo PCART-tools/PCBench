@@ -1,2 +1,2 @@
 import dask.dataframe as dd
-ddf = dd.read_parquet('example.parquet',  None,  None,  None,  None, storage_options=None, engine='auto', gather_statistics=None, split_row_groups=True)
+ddf = dd.read_parquet('./example.parquet',  None,  None,  None,  None, storage_options=None, engine='auto', gather_statistics=None, split_row_groups=True)

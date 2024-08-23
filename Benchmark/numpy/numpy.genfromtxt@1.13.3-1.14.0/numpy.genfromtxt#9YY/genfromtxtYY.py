@@ -1,2 +1,2 @@
 import numpy as np
-data = np.genfromtxt(fname='data.csv', dtype=float, comments='#')
+data = np.genfromtxt(fname='./data.csv', dtype=float, comments='#')

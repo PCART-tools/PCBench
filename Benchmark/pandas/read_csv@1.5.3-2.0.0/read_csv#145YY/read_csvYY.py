@@ -1,2 +1,2 @@
 import pandas as pd
-pd.read_csv(filepath_or_buffer='dev.csv', encoding_errors='strict')
+pd.read_csv(filepath_or_buffer='./dev.csv', encoding_errors='strict')

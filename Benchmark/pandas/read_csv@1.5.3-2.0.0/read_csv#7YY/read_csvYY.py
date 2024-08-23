@@ -1,2 +1,2 @@
 import pandas as pd
-pd.read_csv('dev.csv', usecols=None)
+pd.read_csv('./dev.csv', usecols=None)

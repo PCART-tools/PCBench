@@ -1,2 +1,2 @@
 from rich.syntax import Syntax
-syntax_obj = Syntax.from_path('example.py',  'utf-8',  'monokai',  False,  True, line_range=(1, 10))
+syntax_obj = Syntax.from_path('./example.py',  'utf-8',  'monokai',  False,  True, line_range=(1, 10))

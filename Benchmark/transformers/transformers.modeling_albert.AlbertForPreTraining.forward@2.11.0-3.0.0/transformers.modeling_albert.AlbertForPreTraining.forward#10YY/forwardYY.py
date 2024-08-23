@@ -1,7 +1,7 @@
 from transformers import AlbertForPreTraining
 import torch
 import inspect
-model = AlbertForPreTraining.from_pretrained('albert-base-v2')
+model = AlbertForPreTraining.from_pretrained('./albert-base-v2')
 input_ids = torch.tensor([[31, 51, 99, 15, 5]])
 attention_mask = torch.tensor([[1, 1, 1, 1, 1]])
 token_type_ids = torch.tensor([[0, 0, 0, 0, 0]])

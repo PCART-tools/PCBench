@@ -1,2 +1,2 @@
 import pandas as pd
-pd.read_csv('dev.csv',  ',',  None,  'infer',  None, index_col=None)
+pd.read_csv('./dev.csv',  ',',  None,  'infer',  None, index_col=None)

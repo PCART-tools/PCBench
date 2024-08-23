@@ -1,2 +1,2 @@
 import numpy as np
-data = np.loadtxt('data.txt',  float,  '#',  ',', converters=None, skiprows=1)
+data = np.loadtxt('./data.txt',  float,  '#',  ',', converters=None, skiprows=1)

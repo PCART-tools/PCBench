@@ -1,2 +1,2 @@
 import numpy as np
-data = np.genfromtxt(fname='data.csv')
+data = np.genfromtxt(fname='./data.csv')

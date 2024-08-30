@@ -38,14 +38,14 @@ conda env create -f environment.yml
 ```
 
 ### Method 2:
-Download the .tar.gz package from the [PCBenchVenvs](https://pan.nuaa.edu.cn/share/c5270595cf89e58b6d2ea76f28) and install the virtual environment by executing the following command. 
+Download the .tar.gz packages from [PCBenchVenvs](https://drive.google.com/drive/folders/1-A5Km23bgWWAXhC3U3gVtIq8MI5mraJ5) or [PCBenchVenvs](https://pan.nuaa.edu.cn/share/c5270595cf89e58b6d2ea76f28) (faster in China) and install the virtual environment by executing the following command. 
 ```shell
 cd /home/usr/anaconda3/envs
 mkdir envName
 tar -xzvf envName.tar.gz -C envName
 ```
 
-_Note, a few envs may still missing some system libraries (e.g., libopenblas.so.0), which should be installed through apt._
+_Note, a few envs may still be missing some system libraries (e.g., libopenblas.so.0), which should be installed through apt._
 
 
 ## An example of parameter mutation on foo for generating test cases

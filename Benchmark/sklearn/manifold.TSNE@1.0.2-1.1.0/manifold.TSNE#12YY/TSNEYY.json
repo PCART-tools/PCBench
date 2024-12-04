@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sklearn/manifold.TSNE@1.0.2-1.1.0/manifold.TSNE#12YY",
+    "runCommand": "python TSNEYY.py",
+    "runFilePath": "",
+    "libName": "sklearn",
+    "currentVersion": "1.0.2",
+    "targetVersion": "1.1.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sklearn1.0.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sklearn1.1.0"
+}

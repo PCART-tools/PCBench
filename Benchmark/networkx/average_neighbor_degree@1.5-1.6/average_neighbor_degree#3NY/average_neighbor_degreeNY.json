@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/networkx/average_neighbor_degree@1.5-1.6/average_neighbor_degree#3NY",
+    "runCommand": "python average_neighbor_degreeNY.py",
+    "runFilePath": "",
+    "libName": "networkx",
+    "currentVersion": "1.5",
+    "targetVersion": "1.6",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/networkx1.5",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/networkx1.6"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/tensorflow/tf.keras.losses.SparseCategoricalCrossentropy@2.9.3-2.10.0/tf.keras.losses.SparseCategoricalCrossentropy#8NY",
+    "runCommand": "python SparseCategoricalCrossentropyNY.py",
+    "runFilePath": "",
+    "libName": "tensorflow",
+    "currentVersion": "2.9.3",
+    "targetVersion": "2.10.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/tensorflow2.9.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/tensorflow2.10.0"
+}

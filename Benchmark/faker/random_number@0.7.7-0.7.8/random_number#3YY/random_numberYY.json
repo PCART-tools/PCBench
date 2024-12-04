@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/faker/random_number@0.7.7-0.7.8/random_number#3YY",
+    "runCommand": "python random_numberYY.py",
+    "runFilePath": "",
+    "libName": "faker",
+    "currentVersion": "0.7.7",
+    "targetVersion": "0.7.8",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/faker0.7.7",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/faker0.7.8"
+}

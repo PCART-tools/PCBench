@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sklearn/ensemble.HistGradientBoostingRegressor@0.22.2-0.23.0/ensemble.HistGradientBoostingRegressor#46NY",
+    "runCommand": "python HistGradientBoostingRegressorNY.py",
+    "runFilePath": "",
+    "libName": "sklearn",
+    "currentVersion": "0.22.2",
+    "targetVersion": "0.23.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sklearn0.22.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sklearn0.23.0"
+}

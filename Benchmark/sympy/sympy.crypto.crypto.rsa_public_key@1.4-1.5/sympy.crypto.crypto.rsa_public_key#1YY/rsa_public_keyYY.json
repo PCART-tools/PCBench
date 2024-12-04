@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sympy/sympy.crypto.crypto.rsa_public_key@1.4-1.5/sympy.crypto.crypto.rsa_public_key#1YY",
+    "runCommand": "python rsa_public_keyYY.py",
+    "runFilePath": "",
+    "libName": "sympy",
+    "currentVersion": "1.4",
+    "targetVersion": "1.5",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sympy1.4",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sympy1.5"
+}

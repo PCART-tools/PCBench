@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/fastapi/FastAPI@0.55.1-0.56.0/FastAPI#27YY",
+    "runCommand": "python FastAPIYY.py",
+    "runFilePath": "",
+    "libName": "fastapi",
+    "currentVersion": "0.55.1",
+    "targetVersion": "0.56.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/fastapi0.55.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/fastapi0.56.0"
+}

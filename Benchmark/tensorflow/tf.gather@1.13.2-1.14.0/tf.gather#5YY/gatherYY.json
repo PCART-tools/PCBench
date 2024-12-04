@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/tensorflow/tf.gather@1.13.2-1.14.0/tf.gather#5YY",
+    "runCommand": "python gatherYY.py",
+    "runFilePath": "",
+    "libName": "tensorflow",
+    "currentVersion": "1.13.2",
+    "targetVersion": "1.14.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/tensorflow1.13.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/tensorflow1.14.0"
+}

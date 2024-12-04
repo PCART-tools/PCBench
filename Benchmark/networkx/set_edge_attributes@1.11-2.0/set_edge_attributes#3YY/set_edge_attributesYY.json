@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/networkx/set_edge_attributes@1.11-2.0/set_edge_attributes#3YY",
+    "runCommand": "python set_edge_attributesYY.py",
+    "runFilePath": "",
+    "libName": "networkx",
+    "currentVersion": "1.11",
+    "targetVersion": "2.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/networkx1.11",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/networkx2.0"
+}

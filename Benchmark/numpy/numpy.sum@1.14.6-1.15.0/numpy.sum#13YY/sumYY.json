@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/numpy/numpy.sum@1.14.6-1.15.0/numpy.sum#13YY",
+    "runCommand": "python sumYY.py",
+    "runFilePath": "",
+    "libName": "numpy",
+    "currentVersion": "1.14.6",
+    "targetVersion": "1.15.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/numpy1.14.6",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/numpy1.15.0"
+}

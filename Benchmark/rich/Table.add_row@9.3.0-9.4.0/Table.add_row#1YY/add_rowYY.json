@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/rich/Table.add_row@9.3.0-9.4.0/Table.add_row#1YY",
+    "runCommand": "python add_rowYY.py",
+    "runFilePath": "",
+    "libName": "rich",
+    "currentVersion": "9.3.0",
+    "targetVersion": "9.4.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/rich9.3.0",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/rich9.4.0"
+}

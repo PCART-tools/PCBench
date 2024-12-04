@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/plotly/plotly.offline.plot@3.7.1-3.8.0/plotly.offline.plot#47YY",
+    "runCommand": "python plotYY.py",
+    "runFilePath": "",
+    "libName": "plotly",
+    "currentVersion": "3.7.1",
+    "targetVersion": "3.8.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/plotly3.7.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/plotly3.8.0"
+}

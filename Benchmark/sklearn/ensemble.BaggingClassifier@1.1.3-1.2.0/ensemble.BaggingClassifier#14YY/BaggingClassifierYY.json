@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sklearn/ensemble.BaggingClassifier@1.1.3-1.2.0/ensemble.BaggingClassifier#14YY",
+    "runCommand": "python BaggingClassifierYY.py",
+    "runFilePath": "",
+    "libName": "sklearn",
+    "currentVersion": "1.1.3",
+    "targetVersion": "1.2.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sklearn1.1.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sklearn1.2.0"
+}

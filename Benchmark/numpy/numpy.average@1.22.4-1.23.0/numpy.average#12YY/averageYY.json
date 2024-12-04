@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/numpy/numpy.average@1.22.4-1.23.0/numpy.average#12YY",
+    "runCommand": "python averageYY.py",
+    "runFilePath": "",
+    "libName": "numpy",
+    "currentVersion": "1.22.4",
+    "targetVersion": "1.23.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/numpy1.22.4",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/numpy1.23.0"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/rich/pretty.install@9.0.1-9.1.0/pretty.install#1YY",
+    "runCommand": "python installYY.py",
+    "runFilePath": "",
+    "libName": "rich",
+    "currentVersion": "9.0.1",
+    "targetVersion": "9.1.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/rich9.0.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/rich9.1.0"
+}

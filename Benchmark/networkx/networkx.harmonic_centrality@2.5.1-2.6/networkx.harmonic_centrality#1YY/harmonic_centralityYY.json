@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/networkx/networkx.harmonic_centrality@2.5.1-2.6/networkx.harmonic_centrality#1YY",
+    "runCommand": "python harmonic_centralityYY.py",
+    "runFilePath": "",
+    "libName": "networkx",
+    "currentVersion": "2.5.1",
+    "targetVersion": "2.6",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/networkx2.5.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/networkx2.6"
+}

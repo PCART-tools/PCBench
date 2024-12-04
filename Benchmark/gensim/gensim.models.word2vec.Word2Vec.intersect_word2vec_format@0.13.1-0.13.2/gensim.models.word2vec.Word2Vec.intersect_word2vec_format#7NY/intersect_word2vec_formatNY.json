@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/gensim/gensim.models.word2vec.Word2Vec.intersect_word2vec_format@0.13.1-0.13.2/gensim.models.word2vec.Word2Vec.intersect_word2vec_format#7NY",
+    "runCommand": "python intersect_word2vec_formatNY.py",
+    "runFilePath": "",
+    "libName": "gensim",
+    "currentVersion": "0.13.1",
+    "targetVersion": "0.13.2",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/gensim0.13.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/gensim0.13.2"
+}

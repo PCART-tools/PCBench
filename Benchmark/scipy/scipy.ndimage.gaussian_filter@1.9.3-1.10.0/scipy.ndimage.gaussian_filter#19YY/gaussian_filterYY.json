@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/scipy/scipy.ndimage.gaussian_filter@1.9.3-1.10.0/scipy.ndimage.gaussian_filter#19YY",
+    "runCommand": "python gaussian_filterYY.py",
+    "runFilePath": "",
+    "libName": "scipy",
+    "currentVersion": "1.9.3",
+    "targetVersion": "1.10.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/scipy1.9.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/scipy1.10.0"
+}

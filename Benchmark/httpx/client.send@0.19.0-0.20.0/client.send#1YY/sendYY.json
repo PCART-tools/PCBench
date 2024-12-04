@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/httpx/client.send@0.19.0-0.20.0/client.send#1YY",
+    "runCommand": "python sendYY.py",
+    "runFilePath": "",
+    "libName": "httpx",
+    "currentVersion": "0.19.0",
+    "targetVersion": "0.20.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/httpx0.19.0",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/httpx0.20.0"
+}

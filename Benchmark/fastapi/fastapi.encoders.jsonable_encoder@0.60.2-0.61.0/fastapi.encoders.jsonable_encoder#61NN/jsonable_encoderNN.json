@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/fastapi/fastapi.encoders.jsonable_encoder@0.60.2-0.61.0/fastapi.encoders.jsonable_encoder#61NN",
+    "runCommand": "python jsonable_encoderNN.py",
+    "runFilePath": "",
+    "libName": "fastapi",
+    "currentVersion": "0.60.2",
+    "targetVersion": "0.61.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/fastapi0.60.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/fastapi0.61.0"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/scipy/scipy.fft.ihfft@1.4.1-1.5.0/scipy.fft.ihfft#17YY",
+    "runCommand": "python ihfftYY.py",
+    "runFilePath": "",
+    "libName": "scipy",
+    "currentVersion": "1.4.1",
+    "targetVersion": "1.5.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/scipy1.4.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/scipy1.5.0"
+}

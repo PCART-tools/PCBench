@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/scipy/scipy.odr.ODR@1.5.4-1.6.0/scipy.odr.ODR#15YY",
+    "runCommand": "python ODRYY.py",
+    "runFilePath": "",
+    "libName": "scipy",
+    "currentVersion": "1.5.4",
+    "targetVersion": "1.6.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/scipy1.5.4",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/scipy1.6.0"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sklearn/sklearn.linear_model.BayesianRidge@0.21.3-0.22/sklearn.linear_model.BayesianRidge#72YY",
+    "runCommand": "python BayesianRidgeYY.py",
+    "runFilePath": "",
+    "libName": "sklearn",
+    "currentVersion": "0.21.3",
+    "targetVersion": "0.22",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sklearn0.21.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sklearn0.22"
+}

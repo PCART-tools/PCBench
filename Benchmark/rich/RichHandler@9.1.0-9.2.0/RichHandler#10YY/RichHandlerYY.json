@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/rich/RichHandler@9.1.0-9.2.0/RichHandler#10YY",
+    "runCommand": "python RichHandlerYY.py",
+    "runFilePath": "",
+    "libName": "rich",
+    "currentVersion": "9.1.0",
+    "targetVersion": "9.2.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/rich9.1.0",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/rich9.2.0"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/keras/EarlyStopping@2.1.6-2.2.0/EarlyStopping#13YY",
+    "runCommand": "python EarlyStoppingYY.py",
+    "runFilePath": "",
+    "libName": "keras",
+    "currentVersion": "2.1.6",
+    "targetVersion": "2.2.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/keras2.1.6",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/keras2.2.0"
+}

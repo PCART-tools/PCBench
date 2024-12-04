@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/gensim/gensim.models.word2vec.Word2Vec.load_word2vec_format@0.12.3-0.12.4/gensim.models.word2vec.Word2Vec.load_word2vec_format#10NN",
+    "runCommand": "python load_word2vec_formatNN.py",
+    "runFilePath": "",
+    "libName": "gensim",
+    "currentVersion": "0.12.3",
+    "targetVersion": "0.12.4",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/gensim0.12.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/gensim0.12.4"
+}

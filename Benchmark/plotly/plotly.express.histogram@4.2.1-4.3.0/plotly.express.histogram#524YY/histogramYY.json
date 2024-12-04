@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/plotly/plotly.express.histogram@4.2.1-4.3.0/plotly.express.histogram#524YY",
+    "runCommand": "python histogramYY.py",
+    "runFilePath": "",
+    "libName": "plotly",
+    "currentVersion": "4.2.1",
+    "targetVersion": "4.3.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/plotly4.2.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/plotly4.3.0"
+}

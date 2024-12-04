@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/scipy/scipy.stats.chisquare@0.12.1-0.13.0/scipy.stats.chisquare#8YY",
+    "runCommand": "python chisquareYY.py",
+    "runFilePath": "",
+    "libName": "scipy",
+    "currentVersion": "0.12.1",
+    "targetVersion": "0.13.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/scipy0.12.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/scipy0.13.0"
+}

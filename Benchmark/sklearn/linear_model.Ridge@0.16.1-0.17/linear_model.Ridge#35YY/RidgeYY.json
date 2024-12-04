@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sklearn/linear_model.Ridge@0.16.1-0.17/linear_model.Ridge#35YY",
+    "runCommand": "python RidgeYY.py",
+    "runFilePath": "",
+    "libName": "sklearn",
+    "currentVersion": "0.16.1",
+    "targetVersion": "0.17",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sklearn0.16.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sklearn0.17"
+}

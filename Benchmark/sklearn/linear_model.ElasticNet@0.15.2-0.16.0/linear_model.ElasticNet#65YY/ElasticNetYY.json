@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sklearn/linear_model.ElasticNet@0.15.2-0.16.0/linear_model.ElasticNet#65YY",
+    "runCommand": "python ElasticNetYY.py",
+    "runFilePath": "",
+    "libName": "sklearn",
+    "currentVersion": "0.15.2",
+    "targetVersion": "0.16.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sklearn0.15.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sklearn0.16.0"
+}

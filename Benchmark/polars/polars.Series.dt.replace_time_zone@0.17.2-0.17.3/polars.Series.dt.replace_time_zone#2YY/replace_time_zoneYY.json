@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/polars/polars.Series.dt.replace_time_zone@0.17.2-0.17.3/polars.Series.dt.replace_time_zone#2YY",
+    "runCommand": "python replace_time_zoneYY.py",
+    "runFilePath": "",
+    "libName": "polars",
+    "currentVersion": "0.17.2",
+    "targetVersion": "0.17.3",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/polars0.17.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/polars0.17.3"
+}

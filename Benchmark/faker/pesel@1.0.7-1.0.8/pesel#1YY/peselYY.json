@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/faker/pesel@1.0.7-1.0.8/pesel#1YY",
+    "runCommand": "python peselYY.py",
+    "runFilePath": "",
+    "libName": "faker",
+    "currentVersion": "1.0.7",
+    "targetVersion": "1.0.8",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/faker1.0.7",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/faker1.0.8"
+}

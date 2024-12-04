@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/tensorflow/tf.keras.layers.BatchNormalization@2.11.1-2.12.0/tf.keras.layers.BatchNormalization#46YY",
+    "runCommand": "python BatchNormalizationYY.py",
+    "runFilePath": "",
+    "libName": "tensorflow",
+    "currentVersion": "2.11.1",
+    "targetVersion": "2.12.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/tensorflow2.11.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/tensorflow2.12.0"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/httpx/httpx.Proxy@0.18.2-0.19.0/httpx.Proxy#2YY",
+    "runCommand": "python ProxyYY.py",
+    "runFilePath": "",
+    "libName": "httpx",
+    "currentVersion": "0.18.2",
+    "targetVersion": "0.19.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/httpx0.18.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/httpx0.19.0"
+}

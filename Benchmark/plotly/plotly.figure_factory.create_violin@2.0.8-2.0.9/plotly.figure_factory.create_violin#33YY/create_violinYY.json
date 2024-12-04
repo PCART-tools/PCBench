@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/plotly/plotly.figure_factory.create_violin@2.0.8-2.0.9/plotly.figure_factory.create_violin#33YY",
+    "runCommand": "python create_violinYY.py",
+    "runFilePath": "",
+    "libName": "plotly",
+    "currentVersion": "2.0.8",
+    "targetVersion": "2.0.9",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/plotly2.0.8",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/plotly2.0.9"
+}

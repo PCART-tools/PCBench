@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/keras/MaxPooling1D@2.2.2-2.2.3/MaxPooling1D#5YY",
+    "runCommand": "python MaxPooling1DYY.py",
+    "runFilePath": "",
+    "libName": "keras",
+    "currentVersion": "2.2.2",
+    "targetVersion": "2.2.3",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/keras2.2.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/keras2.2.3"
+}

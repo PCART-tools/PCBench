@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/matplotlib/matplotlib.mathtext.math_to_image@3.5.3-3.6.0/matplotlib.mathtext.math_to_image#18YY",
+    "runCommand": "python math_to_imageYY.py",
+    "runFilePath": "",
+    "libName": "matplotlib",
+    "currentVersion": "3.5.3",
+    "targetVersion": "3.6.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/matplotlib3.5.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/matplotlib3.6.0"
+}

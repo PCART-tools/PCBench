@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/dask/dask.dataframe.read_parquet@2.8.0-2.8.1/dask.dataframe.read_parquet#13YY",
+    "runCommand": "python read_parquetYY.py",
+    "runFilePath": "",
+    "libName": "dask",
+    "currentVersion": "2.8.0",
+    "targetVersion": "2.8.1",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/dask2.8.0",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/dask2.8.1"
+}

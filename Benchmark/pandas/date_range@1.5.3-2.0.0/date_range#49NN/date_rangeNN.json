@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/pandas/date_range@1.5.3-2.0.0/date_range#49NN",
+    "runCommand": "python date_rangeNN.py",
+    "runFilePath": "",
+    "libName": "pandas",
+    "currentVersion": "1.5.3",
+    "targetVersion": "2.0.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/pandas1.5.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/pandas2.0.0"
+}

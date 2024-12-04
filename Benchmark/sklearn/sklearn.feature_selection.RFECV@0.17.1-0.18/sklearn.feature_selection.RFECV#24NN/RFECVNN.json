@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sklearn/sklearn.feature_selection.RFECV@0.17.1-0.18/sklearn.feature_selection.RFECV#24NN",
+    "runCommand": "python RFECVNN.py",
+    "runFilePath": "",
+    "libName": "sklearn",
+    "currentVersion": "0.17.1",
+    "targetVersion": "0.18",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sklearn0.17.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sklearn0.18"
+}

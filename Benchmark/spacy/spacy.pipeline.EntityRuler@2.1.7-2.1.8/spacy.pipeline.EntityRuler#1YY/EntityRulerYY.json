@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/spacy/spacy.pipeline.EntityRuler@2.1.7-2.1.8/spacy.pipeline.EntityRuler#1YY",
+    "runCommand": "python EntityRulerYY.py",
+    "runFilePath": "",
+    "libName": "spacy",
+    "currentVersion": "2.1.7",
+    "targetVersion": "2.1.8",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/spacy2.1.7",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/spacy2.1.8"
+}

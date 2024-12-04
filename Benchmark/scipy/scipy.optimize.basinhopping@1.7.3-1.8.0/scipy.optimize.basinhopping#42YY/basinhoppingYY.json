@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/scipy/scipy.optimize.basinhopping@1.7.3-1.8.0/scipy.optimize.basinhopping#42YY",
+    "runCommand": "python basinhoppingYY.py",
+    "runFilePath": "",
+    "libName": "scipy",
+    "currentVersion": "1.7.3",
+    "targetVersion": "1.8.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/scipy1.7.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/scipy1.8.0"
+}

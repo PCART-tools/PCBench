@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/faker/pybool@16.8.1-16.9.0/pybool#1YY",
+    "runCommand": "python pyboolYY.py",
+    "runFilePath": "",
+    "libName": "faker",
+    "currentVersion": "16.8.1",
+    "targetVersion": "16.9.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/faker16.8.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/faker16.9.0"
+}

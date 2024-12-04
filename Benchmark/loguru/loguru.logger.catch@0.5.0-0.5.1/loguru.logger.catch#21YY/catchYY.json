@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/loguru/loguru.logger.catch@0.5.0-0.5.1/loguru.logger.catch#21YY",
+    "runCommand": "python catchYY.py",
+    "runFilePath": "",
+    "libName": "loguru",
+    "currentVersion": "0.5.0",
+    "targetVersion": "0.5.1",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/loguru0.5.0",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/loguru0.5.1"
+}

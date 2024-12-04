@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/tornado/tornado.wsgi.WSGIContainer@6.2-6.3/tornado.wsgi.WSGIContainer#1YY",
+    "runCommand": "python WSGIContainerYY.py",
+    "runFilePath": "",
+    "libName": "tornado",
+    "currentVersion": "6.2",
+    "targetVersion": "6.3",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/tornado6.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/tornado6.3"
+}

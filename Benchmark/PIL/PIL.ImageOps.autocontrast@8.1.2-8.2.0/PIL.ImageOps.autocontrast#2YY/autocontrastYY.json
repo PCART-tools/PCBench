@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/PIL/PIL.ImageOps.autocontrast@8.1.2-8.2.0/PIL.ImageOps.autocontrast#2YY",
+    "runCommand": "python autocontrastYY.py",
+    "runFilePath": "",
+    "libName": "PIL",
+    "currentVersion": "8.1.2",
+    "targetVersion": "8.2.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/PIL8.1.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/PIL8.2.0"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/numpy/numpy.isposinf@1.12.1-1.13.0/numpy.isposinf#4NY",
+    "runCommand": "python isposinfNY.py",
+    "runFilePath": "",
+    "libName": "numpy",
+    "currentVersion": "1.12.1",
+    "targetVersion": "1.13.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/numpy1.12.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/numpy1.13.0"
+}

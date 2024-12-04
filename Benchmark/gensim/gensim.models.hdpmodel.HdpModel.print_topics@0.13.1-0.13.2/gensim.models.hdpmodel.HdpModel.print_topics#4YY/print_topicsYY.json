@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/gensim/gensim.models.hdpmodel.HdpModel.print_topics@0.13.1-0.13.2/gensim.models.hdpmodel.HdpModel.print_topics#4YY",
+    "runCommand": "python print_topicsYY.py",
+    "runFilePath": "",
+    "libName": "gensim",
+    "currentVersion": "0.13.1",
+    "targetVersion": "0.13.2",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/gensim0.13.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/gensim0.13.2"
+}

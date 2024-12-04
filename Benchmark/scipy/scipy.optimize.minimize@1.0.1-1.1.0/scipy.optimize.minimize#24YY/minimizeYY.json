@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/scipy/scipy.optimize.minimize@1.0.1-1.1.0/scipy.optimize.minimize#24YY",
+    "runCommand": "python minimizeYY.py",
+    "runFilePath": "",
+    "libName": "scipy",
+    "currentVersion": "1.0.1",
+    "targetVersion": "1.1.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/scipy1.0.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/scipy1.1.0"
+}

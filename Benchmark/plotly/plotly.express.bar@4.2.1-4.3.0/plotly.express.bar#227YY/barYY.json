@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/plotly/plotly.express.bar@4.2.1-4.3.0/plotly.express.bar#227YY",
+    "runCommand": "python barYY.py",
+    "runFilePath": "",
+    "libName": "plotly",
+    "currentVersion": "4.2.1",
+    "targetVersion": "4.3.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/plotly4.2.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/plotly4.3.0"
+}

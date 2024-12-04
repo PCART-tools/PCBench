@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/numpy/numpy.histogram@1.23.5-1.24.0/numpy.histogram#11NN",
+    "runCommand": "python histogramNN.py",
+    "runFilePath": "",
+    "libName": "numpy",
+    "currentVersion": "1.23.5",
+    "targetVersion": "1.24.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/numpy1.23.5",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/numpy1.24.0"
+}

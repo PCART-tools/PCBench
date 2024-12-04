@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/networkx/networkx.community.greedy_modularity_communities@2.8.8-3.0/networkx.community.greedy_modularity_communities#8YY",
+    "runCommand": "python greedy_modularity_communitiesYY.py",
+    "runFilePath": "",
+    "libName": "networkx",
+    "currentVersion": "2.8.8",
+    "targetVersion": "3.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/networkx2.8.8",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/networkx3.0"
+}

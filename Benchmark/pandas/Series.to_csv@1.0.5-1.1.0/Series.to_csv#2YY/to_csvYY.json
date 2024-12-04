@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/pandas/Series.to_csv@1.0.5-1.1.0/Series.to_csv#2YY",
+    "runCommand": "python to_csvYY.py",
+    "runFilePath": "",
+    "libName": "pandas",
+    "currentVersion": "1.0.5",
+    "targetVersion": "1.1.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/pandas1.0.5",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/pandas1.1.0"
+}

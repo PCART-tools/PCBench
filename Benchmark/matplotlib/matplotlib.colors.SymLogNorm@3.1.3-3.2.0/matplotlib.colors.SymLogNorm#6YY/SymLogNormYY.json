@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/matplotlib/matplotlib.colors.SymLogNorm@3.1.3-3.2.0/matplotlib.colors.SymLogNorm#6YY",
+    "runCommand": "python SymLogNormYY.py",
+    "runFilePath": "",
+    "libName": "matplotlib",
+    "currentVersion": "3.1.3",
+    "targetVersion": "3.2.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/matplotlib3.1.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/matplotlib3.2.0"
+}

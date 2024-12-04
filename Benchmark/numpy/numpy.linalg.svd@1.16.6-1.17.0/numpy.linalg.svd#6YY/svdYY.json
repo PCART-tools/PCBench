@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/numpy/numpy.linalg.svd@1.16.6-1.17.0/numpy.linalg.svd#6YY",
+    "runCommand": "python svdYY.py",
+    "runFilePath": "",
+    "libName": "numpy",
+    "currentVersion": "1.16.6",
+    "targetVersion": "1.17.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/numpy1.16.6",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/numpy1.17.0"
+}

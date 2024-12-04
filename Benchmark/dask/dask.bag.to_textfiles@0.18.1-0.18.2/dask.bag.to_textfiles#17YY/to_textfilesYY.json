@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/dask/dask.bag.to_textfiles@0.18.1-0.18.2/dask.bag.to_textfiles#17YY",
+    "runCommand": "python to_textfilesYY.py",
+    "runFilePath": "",
+    "libName": "dask",
+    "currentVersion": "0.18.1",
+    "targetVersion": "0.18.2",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/dask0.18.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/dask0.18.2"
+}

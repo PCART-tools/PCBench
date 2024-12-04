@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/scipy/scipy.ndimage.rank_filter@1.10.1-1.11.0/scipy.ndimage.rank_filter#13YY",
+    "runCommand": "python rank_filterYY.py",
+    "runFilePath": "",
+    "libName": "scipy",
+    "currentVersion": "1.10.1",
+    "targetVersion": "1.11.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/scipy1.10.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/scipy1.11.0"
+}

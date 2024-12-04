@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/keras/test_on_batch@2.2.5-2.3.0/test_on_batch#5YY",
+    "runCommand": "python test_on_batchYY.py",
+    "runFilePath": "",
+    "libName": "keras",
+    "currentVersion": "2.2.5",
+    "targetVersion": "2.3.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/keras2.2.5",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/keras2.3.0"
+}

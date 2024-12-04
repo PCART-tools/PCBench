@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/dask/da.random.randint@1.2.1-1.2.2/da.random.randint#10YY",
+    "runCommand": "python randintYY.py",
+    "runFilePath": "",
+    "libName": "dask",
+    "currentVersion": "1.2.1",
+    "targetVersion": "1.2.2",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/dask1.2.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/dask1.2.2"
+}

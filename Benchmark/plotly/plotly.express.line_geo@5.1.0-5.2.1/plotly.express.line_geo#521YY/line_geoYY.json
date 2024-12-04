@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/plotly/plotly.express.line_geo@5.1.0-5.2.1/plotly.express.line_geo#521YY",
+    "runCommand": "python line_geoYY.py",
+    "runFilePath": "",
+    "libName": "plotly",
+    "currentVersion": "5.1.0",
+    "targetVersion": "5.2.1",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/plotly5.1.0",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/plotly5.2.1"
+}

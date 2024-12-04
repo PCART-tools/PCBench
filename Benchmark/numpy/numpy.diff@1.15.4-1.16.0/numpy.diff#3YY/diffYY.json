@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/numpy/numpy.diff@1.15.4-1.16.0/numpy.diff#3YY",
+    "runCommand": "python diffYY.py",
+    "runFilePath": "",
+    "libName": "numpy",
+    "currentVersion": "1.15.4",
+    "targetVersion": "1.16.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/numpy1.15.4",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/numpy1.16.0"
+}

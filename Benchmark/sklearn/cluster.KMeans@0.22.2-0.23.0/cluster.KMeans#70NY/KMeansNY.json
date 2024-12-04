@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sklearn/cluster.KMeans@0.22.2-0.23.0/cluster.KMeans#70NY",
+    "runCommand": "python KMeansNY.py",
+    "runFilePath": "",
+    "libName": "sklearn",
+    "currentVersion": "0.22.2",
+    "targetVersion": "0.23.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sklearn0.22.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sklearn0.23.0"
+}

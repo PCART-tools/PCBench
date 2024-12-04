@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/PIL/PIL.ImageDraw.ImageDraw.regular_polygon@9.5.0-10.0.0/PIL.ImageDraw.ImageDraw.regular_polygon#3YY",
+    "runCommand": "python regular_polygonYY.py",
+    "runFilePath": "",
+    "libName": "PIL",
+    "currentVersion": "9.5.0",
+    "targetVersion": "10.0.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/PIL9.5.0",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/PIL10.0.0"
+}

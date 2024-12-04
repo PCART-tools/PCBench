@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/numpy/numpy.genfromtxt@1.13.3-1.14.0/numpy.genfromtxt#135YY",
+    "runCommand": "python genfromtxtYY.py",
+    "runFilePath": "",
+    "libName": "numpy",
+    "currentVersion": "1.13.3",
+    "targetVersion": "1.14.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/numpy1.13.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/numpy1.14.0"
+}

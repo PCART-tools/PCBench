@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/aiohttp/aiohttp.ClientSession@0.17.4-0.18.0/aiohttp.ClientSession#5YY",
+    "runCommand": "python ClientSessionYY.py",
+    "runFilePath": "",
+    "libName": "aiohttp",
+    "currentVersion": "0.17.4",
+    "targetVersion": "0.18.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/aiohttp0.17.4",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/aiohttp0.18.0"
+}

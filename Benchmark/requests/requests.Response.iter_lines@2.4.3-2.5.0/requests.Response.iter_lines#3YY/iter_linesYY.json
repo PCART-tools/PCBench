@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/requests/requests.Response.iter_lines@2.4.3-2.5.0/requests.Response.iter_lines#3YY",
+    "runCommand": "python iter_linesYY.py",
+    "runFilePath": "",
+    "libName": "requests",
+    "currentVersion": "2.4.3",
+    "targetVersion": "2.5.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/requests2.4.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/requests2.5.0"
+}

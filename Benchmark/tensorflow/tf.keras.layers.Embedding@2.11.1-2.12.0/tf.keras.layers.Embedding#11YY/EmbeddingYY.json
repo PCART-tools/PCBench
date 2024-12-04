@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/tensorflow/tf.keras.layers.Embedding@2.11.1-2.12.0/tf.keras.layers.Embedding#11YY",
+    "runCommand": "python EmbeddingYY.py",
+    "runFilePath": "",
+    "libName": "tensorflow",
+    "currentVersion": "2.11.1",
+    "targetVersion": "2.12.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/tensorflow2.11.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/tensorflow2.12.0"
+}

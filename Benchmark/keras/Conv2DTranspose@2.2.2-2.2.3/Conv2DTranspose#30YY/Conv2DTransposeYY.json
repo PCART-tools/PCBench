@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/keras/Conv2DTranspose@2.2.2-2.2.3/Conv2DTranspose#30YY",
+    "runCommand": "python Conv2DTransposeYY.py",
+    "runFilePath": "",
+    "libName": "keras",
+    "currentVersion": "2.2.2",
+    "targetVersion": "2.2.3",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/keras2.2.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/keras2.2.3"
+}

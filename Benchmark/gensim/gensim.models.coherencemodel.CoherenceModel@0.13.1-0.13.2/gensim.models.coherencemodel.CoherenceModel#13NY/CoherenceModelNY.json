@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/gensim/gensim.models.coherencemodel.CoherenceModel@0.13.1-0.13.2/gensim.models.coherencemodel.CoherenceModel#13NY",
+    "runCommand": "python CoherenceModelNY.py",
+    "runFilePath": "",
+    "libName": "gensim",
+    "currentVersion": "0.13.1",
+    "targetVersion": "0.13.2",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/gensim0.13.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/gensim0.13.2"
+}

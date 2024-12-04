@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/pandas/Series.mask@1.5.3-2.0.0/Series.mask#21YY",
+    "runCommand": "python maskYY.py",
+    "runFilePath": "",
+    "libName": "pandas",
+    "currentVersion": "1.5.3",
+    "targetVersion": "2.0.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/pandas1.5.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/pandas2.0.0"
+}

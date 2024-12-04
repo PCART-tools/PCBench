@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/click/click.secho@6.7-7.0/click.secho#16YY",
+    "runCommand": "python sechoYY.py",
+    "runFilePath": "",
+    "libName": "click",
+    "currentVersion": "6.7",
+    "targetVersion": "7.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/click6.7",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/click7.0"
+}

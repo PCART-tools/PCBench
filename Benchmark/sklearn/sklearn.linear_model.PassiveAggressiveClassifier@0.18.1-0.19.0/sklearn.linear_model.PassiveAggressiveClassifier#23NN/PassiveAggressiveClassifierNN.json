@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sklearn/sklearn.linear_model.PassiveAggressiveClassifier@0.18.1-0.19.0/sklearn.linear_model.PassiveAggressiveClassifier#23NN",
+    "runCommand": "python PassiveAggressiveClassifierNN.py",
+    "runFilePath": "",
+    "libName": "sklearn",
+    "currentVersion": "0.18.1",
+    "targetVersion": "0.19.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sklearn0.18.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sklearn0.19.0"
+}

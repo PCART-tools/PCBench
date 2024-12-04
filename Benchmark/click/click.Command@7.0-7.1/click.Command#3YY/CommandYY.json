@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/click/click.Command@7.0-7.1/click.Command#3YY",
+    "runCommand": "python CommandYY.py",
+    "runFilePath": "",
+    "libName": "click",
+    "currentVersion": "7.0",
+    "targetVersion": "7.1",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/click7.0",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/click7.1"
+}

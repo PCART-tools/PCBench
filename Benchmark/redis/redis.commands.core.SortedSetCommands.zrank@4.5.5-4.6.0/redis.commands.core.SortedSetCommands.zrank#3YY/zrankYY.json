@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/redis/redis.commands.core.SortedSetCommands.zrank@4.5.5-4.6.0/redis.commands.core.SortedSetCommands.zrank#3YY",
+    "runCommand": "python zrankYY.py",
+    "runFilePath": "",
+    "libName": "redis",
+    "currentVersion": "4.5.5",
+    "targetVersion": "4.6.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/redis4.5.5",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/redis4.6.0"
+}

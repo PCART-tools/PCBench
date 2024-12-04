@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/transformers/transformers.modeling_albert.AlbertForPreTraining.forward@2.11.0-3.0.0/transformers.modeling_albert.AlbertForPreTraining.forward#29YY",
+    "runCommand": "python forwardYY.py",
+    "runFilePath": "",
+    "libName": "transformers",
+    "currentVersion": "2.11.0",
+    "targetVersion": "3.0.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/transformers2.11.0",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/transformers3.0.0"
+}

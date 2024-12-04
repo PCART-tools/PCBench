@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/tensorflow/tf.data.Dataset.from_generator@2.3.4-2.4.0/tf.data.Dataset.from_generator#9YY",
+    "runCommand": "python from_generatorYY.py",
+    "runFilePath": "",
+    "libName": "tensorflow",
+    "currentVersion": "2.3.4",
+    "targetVersion": "2.4.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/tensorflow2.3.4",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/tensorflow2.4.0"
+}

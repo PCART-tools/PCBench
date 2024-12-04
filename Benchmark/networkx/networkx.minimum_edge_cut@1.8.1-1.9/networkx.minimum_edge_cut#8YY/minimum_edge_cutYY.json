@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/networkx/networkx.minimum_edge_cut@1.8.1-1.9/networkx.minimum_edge_cut#8YY",
+    "runCommand": "python minimum_edge_cutYY.py",
+    "runFilePath": "",
+    "libName": "networkx",
+    "currentVersion": "1.8.1",
+    "targetVersion": "1.9",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/networkx1.8.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/networkx1.9"
+}

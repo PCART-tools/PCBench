@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/scipy/scipy.interpolate.UnivariateSpline@0.14.1-0.15.0/scipy.interpolate.UnivariateSpline#19YY",
+    "runCommand": "python UnivariateSplineYY.py",
+    "runFilePath": "",
+    "libName": "scipy",
+    "currentVersion": "0.14.1",
+    "targetVersion": "0.15.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/scipy0.14.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/scipy0.15.0"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/redis/zrevrank@4.5.4-4.5.5/zrevrank#1YY",
+    "runCommand": "python zrevrankYY.py",
+    "runFilePath": "",
+    "libName": "redis",
+    "currentVersion": "4.5.4",
+    "targetVersion": "4.5.5",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/redis4.5.4",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/redis4.5.5"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/networkx/shortest_path@1.4-1.5/shortest_path#6YY",
+    "runCommand": "python shortest_pathYY.py",
+    "runFilePath": "",
+    "libName": "networkx",
+    "currentVersion": "1.4",
+    "targetVersion": "1.5",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/networkx1.4",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/networkx1.5"
+}

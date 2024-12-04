@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/numpy/numpy.vander@1.8.2-1.9.0/numpy.vander#2YY",
+    "runCommand": "python vanderYY.py",
+    "runFilePath": "",
+    "libName": "numpy",
+    "currentVersion": "1.8.2",
+    "targetVersion": "1.9.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/numpy1.8.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/numpy1.9.0"
+}

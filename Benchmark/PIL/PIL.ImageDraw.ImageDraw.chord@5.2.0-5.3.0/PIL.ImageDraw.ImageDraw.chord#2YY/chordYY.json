@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/PIL/PIL.ImageDraw.ImageDraw.chord@5.2.0-5.3.0/PIL.ImageDraw.ImageDraw.chord#2YY",
+    "runCommand": "python chordYY.py",
+    "runFilePath": "",
+    "libName": "PIL",
+    "currentVersion": "5.2.0",
+    "targetVersion": "5.3.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/PIL5.2.0",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/PIL5.3.0"
+}

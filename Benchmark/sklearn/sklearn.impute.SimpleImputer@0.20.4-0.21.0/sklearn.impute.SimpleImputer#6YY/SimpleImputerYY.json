@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sklearn/sklearn.impute.SimpleImputer@0.20.4-0.21.0/sklearn.impute.SimpleImputer#6YY",
+    "runCommand": "python SimpleImputerYY.py",
+    "runFilePath": "",
+    "libName": "sklearn",
+    "currentVersion": "0.20.4",
+    "targetVersion": "0.21.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sklearn0.20.4",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sklearn0.21.0"
+}

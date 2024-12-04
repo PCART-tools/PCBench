@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/spacy/spacy.load@3.0.5-3.0.6/spacy.load#14YY",
+    "runCommand": "python loadYY.py",
+    "runFilePath": "",
+    "libName": "spacy",
+    "currentVersion": "3.0.5",
+    "targetVersion": "3.0.6",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/spacy3.0.5",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/spacy3.0.6"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/pandas/DataFrame.resample@1.0.5-1.1.0/DataFrame.resample#36YY",
+    "runCommand": "python resampleYY.py",
+    "runFilePath": "",
+    "libName": "pandas",
+    "currentVersion": "1.0.5",
+    "targetVersion": "1.1.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/pandas1.0.5",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/pandas1.1.0"
+}

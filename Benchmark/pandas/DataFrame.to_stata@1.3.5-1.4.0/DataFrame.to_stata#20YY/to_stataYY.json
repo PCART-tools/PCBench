@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/pandas/DataFrame.to_stata@1.3.5-1.4.0/DataFrame.to_stata#20YY",
+    "runCommand": "python to_stataYY.py",
+    "runFilePath": "",
+    "libName": "pandas",
+    "currentVersion": "1.3.5",
+    "targetVersion": "1.4.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/pandas1.3.5",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/pandas1.4.0"
+}

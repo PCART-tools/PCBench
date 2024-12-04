@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/scipy/scipy.optimize.differential_evolution@1.6.3-1.7.0/scipy.optimize.differential_evolution#31YY",
+    "runCommand": "python differential_evolutionYY.py",
+    "runFilePath": "",
+    "libName": "scipy",
+    "currentVersion": "1.6.3",
+    "targetVersion": "1.7.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/scipy1.6.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/scipy1.7.0"
+}

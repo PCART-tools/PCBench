@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/keras/ReduceLROnPlateau@2.1.5-2.1.6/ReduceLROnPlateau#31YY",
+    "runCommand": "python ReduceLROnPlateauYY.py",
+    "runFilePath": "",
+    "libName": "keras",
+    "currentVersion": "2.1.5",
+    "targetVersion": "2.1.6",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/keras2.1.5",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/keras2.1.6"
+}

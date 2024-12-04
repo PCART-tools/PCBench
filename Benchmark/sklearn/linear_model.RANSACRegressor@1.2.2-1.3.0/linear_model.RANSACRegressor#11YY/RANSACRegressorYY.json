@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sklearn/linear_model.RANSACRegressor@1.2.2-1.3.0/linear_model.RANSACRegressor#11YY",
+    "runCommand": "python RANSACRegressorYY.py",
+    "runFilePath": "",
+    "libName": "sklearn",
+    "currentVersion": "1.2.2",
+    "targetVersion": "1.3.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sklearn1.2.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sklearn1.3.0"
+}

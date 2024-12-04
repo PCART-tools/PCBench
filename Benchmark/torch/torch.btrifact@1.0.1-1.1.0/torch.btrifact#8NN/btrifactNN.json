@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/torch/torch.btrifact@1.0.1-1.1.0/torch.btrifact#8NN",
+    "runCommand": "python btrifactNN.py",
+    "runFilePath": "",
+    "libName": "torch",
+    "currentVersion": "1.0.1",
+    "targetVersion": "1.1.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/torch1.0.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/torch1.1.0"
+}

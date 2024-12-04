@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/rich/Console@9.2.0-9.3.0/Console#10YY",
+    "runCommand": "python ConsoleYY.py",
+    "runFilePath": "",
+    "libName": "rich",
+    "currentVersion": "9.2.0",
+    "targetVersion": "9.3.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/rich9.2.0",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/rich9.3.0"
+}

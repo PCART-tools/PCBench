@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/loguru/loguru.logger.configure@0.3.2-0.4.0/loguru.logger.configure#2YY",
+    "runCommand": "python configureYY.py",
+    "runFilePath": "",
+    "libName": "loguru",
+    "currentVersion": "0.3.2",
+    "targetVersion": "0.4.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/loguru0.3.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/loguru0.4.0"
+}

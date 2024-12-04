@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sklearn/metrics.r2_score@1.0.2-1.1.0/metrics.r2_score#5YY",
+    "runCommand": "python r2_scoreYY.py",
+    "runFilePath": "",
+    "libName": "sklearn",
+    "currentVersion": "1.0.2",
+    "targetVersion": "1.1.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sklearn1.0.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sklearn1.1.0"
+}

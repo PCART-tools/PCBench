@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/rich/Align@9.10.0-9.11.0/Align#10YY",
+    "runCommand": "python AlignYY.py",
+    "runFilePath": "",
+    "libName": "rich",
+    "currentVersion": "9.10.0",
+    "targetVersion": "9.11.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/rich9.10.0",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/rich9.11.0"
+}

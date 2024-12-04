@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/networkx/networkx.scale_free_graph@2.8.3-2.8.4/networkx.scale_free_graph#40YY",
+    "runCommand": "python scale_free_graphYY.py",
+    "runFilePath": "",
+    "libName": "networkx",
+    "currentVersion": "2.8.3",
+    "targetVersion": "2.8.4",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/networkx2.8.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/networkx2.8.4"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/dask/dask.dataframe.repartition@1.2.2-2.0.0/dask.dataframe.repartition#3YY",
+    "runCommand": "python repartitionYY.py",
+    "runFilePath": "",
+    "libName": "dask",
+    "currentVersion": "1.2.2",
+    "targetVersion": "2.0.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/dask1.2.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/dask2.0.0"
+}

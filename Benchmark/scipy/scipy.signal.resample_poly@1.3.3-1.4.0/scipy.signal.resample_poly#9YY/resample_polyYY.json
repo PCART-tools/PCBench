@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/scipy/scipy.signal.resample_poly@1.3.3-1.4.0/scipy.signal.resample_poly#9YY",
+    "runCommand": "python resample_polyYY.py",
+    "runFilePath": "",
+    "libName": "scipy",
+    "currentVersion": "1.3.3",
+    "targetVersion": "1.4.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/scipy1.3.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/scipy1.4.0"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/dask/dask.dataframe.from_dask_array@0.19.2-0.19.3/dask.dataframe.from_dask_array#3YY",
+    "runCommand": "python from_dask_arrayYY.py",
+    "runFilePath": "",
+    "libName": "dask",
+    "currentVersion": "0.19.2",
+    "targetVersion": "0.19.3",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/dask0.19.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/dask0.19.3"
+}

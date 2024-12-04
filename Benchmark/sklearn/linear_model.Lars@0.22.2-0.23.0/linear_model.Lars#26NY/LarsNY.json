@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sklearn/linear_model.Lars@0.22.2-0.23.0/linear_model.Lars#26NY",
+    "runCommand": "python LarsNY.py",
+    "runFilePath": "",
+    "libName": "sklearn",
+    "currentVersion": "0.22.2",
+    "targetVersion": "0.23.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sklearn0.22.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sklearn0.23.0"
+}

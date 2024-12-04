@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/pandas/testing.assert_series_equal@1.4.4-1.5.0/testing.assert_series_equal#286YY",
+    "runCommand": "python assert_series_equalYY.py",
+    "runFilePath": "",
+    "libName": "pandas",
+    "currentVersion": "1.4.4",
+    "targetVersion": "1.5.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/pandas1.4.4",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/pandas1.5.0"
+}

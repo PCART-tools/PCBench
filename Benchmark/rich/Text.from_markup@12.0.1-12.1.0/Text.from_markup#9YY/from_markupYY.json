@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/rich/Text.from_markup@12.0.1-12.1.0/Text.from_markup#9YY",
+    "runCommand": "python from_markupYY.py",
+    "runFilePath": "",
+    "libName": "rich",
+    "currentVersion": "12.0.1",
+    "targetVersion": "12.1.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/rich12.0.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/rich12.1.0"
+}

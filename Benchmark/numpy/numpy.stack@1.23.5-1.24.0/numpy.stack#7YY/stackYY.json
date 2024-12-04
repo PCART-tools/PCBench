@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/numpy/numpy.stack@1.23.5-1.24.0/numpy.stack#7YY",
+    "runCommand": "python stackYY.py",
+    "runFilePath": "",
+    "libName": "numpy",
+    "currentVersion": "1.23.5",
+    "targetVersion": "1.24.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/numpy1.23.5",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/numpy1.24.0"
+}

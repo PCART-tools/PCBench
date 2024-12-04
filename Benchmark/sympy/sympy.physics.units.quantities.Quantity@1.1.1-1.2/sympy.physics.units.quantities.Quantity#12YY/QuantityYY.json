@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sympy/sympy.physics.units.quantities.Quantity@1.1.1-1.2/sympy.physics.units.quantities.Quantity#12YY",
+    "runCommand": "python QuantityYY.py",
+    "runFilePath": "",
+    "libName": "sympy",
+    "currentVersion": "1.1.1",
+    "targetVersion": "1.2",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sympy1.1.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sympy1.2"
+}

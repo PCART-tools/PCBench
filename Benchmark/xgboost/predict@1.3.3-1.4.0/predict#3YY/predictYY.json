@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/xgboost/predict@1.3.3-1.4.0/predict#3YY",
+    "runCommand": "python predictYY.py",
+    "runFilePath": "",
+    "libName": "xgboost",
+    "currentVersion": "1.3.3",
+    "targetVersion": "1.4.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/xgboost1.3.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/xgboost1.4.0"
+}

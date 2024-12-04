@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/django/django.views.static.was_modified_since@4.0.10-4.1.0/django.views.static.was_modified_since#2YY",
+    "runCommand": "python was_modified_sinceYY.py",
+    "runFilePath": "",
+    "libName": "django",
+    "currentVersion": "4.0.10",
+    "targetVersion": "4.1.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/django4.0.10",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/django4.1.0"
+}

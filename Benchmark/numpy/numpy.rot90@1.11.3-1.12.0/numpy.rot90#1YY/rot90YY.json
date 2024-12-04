@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/numpy/numpy.rot90@1.11.3-1.12.0/numpy.rot90#1YY",
+    "runCommand": "python rot90YY.py",
+    "runFilePath": "",
+    "libName": "numpy",
+    "currentVersion": "1.11.3",
+    "targetVersion": "1.12.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/numpy1.11.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/numpy1.12.0"
+}

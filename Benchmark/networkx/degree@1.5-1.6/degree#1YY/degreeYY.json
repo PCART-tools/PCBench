@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/networkx/degree@1.5-1.6/degree#1YY",
+    "runCommand": "python degreeYY.py",
+    "runFilePath": "",
+    "libName": "networkx",
+    "currentVersion": "1.5",
+    "targetVersion": "1.6",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/networkx1.5",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/networkx1.6"
+}

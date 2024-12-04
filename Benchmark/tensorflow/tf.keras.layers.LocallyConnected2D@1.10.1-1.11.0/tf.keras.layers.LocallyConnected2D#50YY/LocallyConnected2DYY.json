@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/tensorflow/tf.keras.layers.LocallyConnected2D@1.10.1-1.11.0/tf.keras.layers.LocallyConnected2D#50YY",
+    "runCommand": "python LocallyConnected2DYY.py",
+    "runFilePath": "",
+    "libName": "tensorflow",
+    "currentVersion": "1.10.1",
+    "targetVersion": "1.11.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/tensorflow1.10.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/tensorflow1.11.0"
+}

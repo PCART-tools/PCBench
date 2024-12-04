@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/httpx/httpx.delete@0.7.4-0.7.5/httpx.delete#7YY",
+    "runCommand": "python deleteYY.py",
+    "runFilePath": "",
+    "libName": "httpx",
+    "currentVersion": "0.7.4",
+    "targetVersion": "0.7.5",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/httpx0.7.4",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/httpx0.7.5"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/polars/polars.from_pandas@0.16.2-0.16.3/polars.from_pandas#9NY",
+    "runCommand": "python from_pandasNY.py",
+    "runFilePath": "",
+    "libName": "polars",
+    "currentVersion": "0.16.2",
+    "targetVersion": "0.16.3",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/polars0.16.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/polars0.16.3"
+}

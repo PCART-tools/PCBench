@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/django/models.Index@1.11.29-2.0/models.Index#2YY",
+    "runCommand": "python IndexYY.py",
+    "runFilePath": "",
+    "libName": "django",
+    "currentVersion": "1.11.29",
+    "targetVersion": "2.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/django1.11.29",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/django2.0"
+}

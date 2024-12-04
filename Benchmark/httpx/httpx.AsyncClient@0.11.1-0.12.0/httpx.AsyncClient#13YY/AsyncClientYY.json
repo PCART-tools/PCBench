@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/httpx/httpx.AsyncClient@0.11.1-0.12.0/httpx.AsyncClient#13YY",
+    "runCommand": "python AsyncClientYY.py",
+    "runFilePath": "",
+    "libName": "httpx",
+    "currentVersion": "0.11.1",
+    "targetVersion": "0.12.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/httpx0.11.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/httpx0.12.0"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/gensim/gensim.models.fasttext.FastText@3.8.3-4.0.0/gensim.models.fasttext.FastText#356YY",
+    "runCommand": "python FastTextYY.py",
+    "runFilePath": "",
+    "libName": "gensim",
+    "currentVersion": "3.8.3",
+    "targetVersion": "4.0.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/gensim3.8.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/gensim4.0.0"
+}

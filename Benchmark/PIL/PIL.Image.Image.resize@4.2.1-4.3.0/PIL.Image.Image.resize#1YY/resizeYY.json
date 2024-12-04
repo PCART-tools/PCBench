@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/PIL/PIL.Image.Image.resize@4.2.1-4.3.0/PIL.Image.Image.resize#1YY",
+    "runCommand": "python resizeYY.py",
+    "runFilePath": "",
+    "libName": "PIL",
+    "currentVersion": "4.2.1",
+    "targetVersion": "4.3.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/PIL4.2.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/PIL4.3.0"
+}

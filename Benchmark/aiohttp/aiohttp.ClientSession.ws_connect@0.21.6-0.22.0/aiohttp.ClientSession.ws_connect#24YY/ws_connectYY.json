@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/aiohttp/aiohttp.ClientSession.ws_connect@0.21.6-0.22.0/aiohttp.ClientSession.ws_connect#24YY",
+    "runCommand": "python ws_connectYY.py",
+    "runFilePath": "",
+    "libName": "aiohttp",
+    "currentVersion": "0.21.6",
+    "targetVersion": "0.22.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/aiohttp0.21.6",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/aiohttp0.22.0"
+}

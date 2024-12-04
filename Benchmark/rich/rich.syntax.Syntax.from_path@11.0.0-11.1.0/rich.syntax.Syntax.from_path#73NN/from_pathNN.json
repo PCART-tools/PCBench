@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/rich/rich.syntax.Syntax.from_path@11.0.0-11.1.0/rich.syntax.Syntax.from_path#73NN",
+    "runCommand": "python from_pathNN.py",
+    "runFilePath": "",
+    "libName": "rich",
+    "currentVersion": "11.0.0",
+    "targetVersion": "11.1.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/rich11.0.0",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/rich11.1.0"
+}

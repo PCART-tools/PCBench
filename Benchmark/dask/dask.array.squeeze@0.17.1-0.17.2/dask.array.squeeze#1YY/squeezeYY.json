@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/dask/dask.array.squeeze@0.17.1-0.17.2/dask.array.squeeze#1YY",
+    "runCommand": "python squeezeYY.py",
+    "runFilePath": "",
+    "libName": "dask",
+    "currentVersion": "0.17.1",
+    "targetVersion": "0.17.2",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/dask0.17.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/dask0.17.2"
+}

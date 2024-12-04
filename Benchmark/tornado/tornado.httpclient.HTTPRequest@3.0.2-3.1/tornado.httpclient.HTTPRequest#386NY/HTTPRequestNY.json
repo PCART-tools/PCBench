@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/tornado/tornado.httpclient.HTTPRequest@3.0.2-3.1/tornado.httpclient.HTTPRequest#386NY",
+    "runCommand": "python HTTPRequestNY.py",
+    "runFilePath": "",
+    "libName": "tornado",
+    "currentVersion": "3.0.2",
+    "targetVersion": "3.1",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/tornado3.0.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/tornado3.1"
+}

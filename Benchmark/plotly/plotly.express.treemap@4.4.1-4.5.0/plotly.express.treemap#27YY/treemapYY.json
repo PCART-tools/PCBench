@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/plotly/plotly.express.treemap@4.4.1-4.5.0/plotly.express.treemap#27YY",
+    "runCommand": "python treemapYY.py",
+    "runFilePath": "",
+    "libName": "plotly",
+    "currentVersion": "4.4.1",
+    "targetVersion": "4.5.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/plotly4.4.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/plotly4.5.0"
+}

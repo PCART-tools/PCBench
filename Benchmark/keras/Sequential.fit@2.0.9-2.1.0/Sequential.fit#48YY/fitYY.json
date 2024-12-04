@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/keras/Sequential.fit@2.0.9-2.1.0/Sequential.fit#48YY",
+    "runCommand": "python fitYY.py",
+    "runFilePath": "",
+    "libName": "keras",
+    "currentVersion": "2.0.9",
+    "targetVersion": "2.1.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/keras2.0.9",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/keras2.1.0"
+}

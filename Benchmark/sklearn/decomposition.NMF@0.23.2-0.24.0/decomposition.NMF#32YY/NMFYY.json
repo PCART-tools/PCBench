@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sklearn/decomposition.NMF@0.23.2-0.24.0/decomposition.NMF#32YY",
+    "runCommand": "python NMFYY.py",
+    "runFilePath": "",
+    "libName": "sklearn",
+    "currentVersion": "0.23.2",
+    "targetVersion": "0.24.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sklearn0.23.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sklearn0.24.0"
+}

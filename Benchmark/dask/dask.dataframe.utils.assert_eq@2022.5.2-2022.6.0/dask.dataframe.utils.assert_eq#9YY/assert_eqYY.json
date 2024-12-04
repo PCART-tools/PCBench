@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/dask/dask.dataframe.utils.assert_eq@2022.5.2-2022.6.0/dask.dataframe.utils.assert_eq#9YY",
+    "runCommand": "python assert_eqYY.py",
+    "runFilePath": "",
+    "libName": "dask",
+    "currentVersion": "2022.5.2",
+    "targetVersion": "2022.6.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/dask2022.5.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/dask2022.6.0"
+}

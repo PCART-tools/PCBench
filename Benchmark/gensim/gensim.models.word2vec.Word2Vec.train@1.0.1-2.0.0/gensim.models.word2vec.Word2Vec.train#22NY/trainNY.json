@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/gensim/gensim.models.word2vec.Word2Vec.train@1.0.1-2.0.0/gensim.models.word2vec.Word2Vec.train#22NY",
+    "runCommand": "python trainNY.py",
+    "runFilePath": "",
+    "libName": "gensim",
+    "currentVersion": "1.0.1",
+    "targetVersion": "2.0.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/gensim1.0.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/gensim2.0.0"
+}

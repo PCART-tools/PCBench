@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/plotly/plotly.figure_factory.create_quiver@3.2.1-3.3.0/plotly.figure_factory.create_quiver#1YY",
+    "runCommand": "python create_quiverYY.py",
+    "runFilePath": "",
+    "libName": "plotly",
+    "currentVersion": "3.2.1",
+    "targetVersion": "3.3.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/plotly3.2.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/plotly3.3.0"
+}

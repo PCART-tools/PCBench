@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/networkx/networkx.find_cliques@2.6.3-2.7/networkx.find_cliques#1YY",
+    "runCommand": "python find_cliquesYY.py",
+    "runFilePath": "",
+    "libName": "networkx",
+    "currentVersion": "2.6.3",
+    "targetVersion": "2.7",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/networkx2.6.3",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/networkx2.7"
+}

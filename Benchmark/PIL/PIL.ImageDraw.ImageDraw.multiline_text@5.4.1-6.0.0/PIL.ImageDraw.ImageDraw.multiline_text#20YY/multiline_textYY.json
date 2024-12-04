@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/PIL/PIL.ImageDraw.ImageDraw.multiline_text@5.4.1-6.0.0/PIL.ImageDraw.ImageDraw.multiline_text#20YY",
+    "runCommand": "python multiline_textYY.py",
+    "runFilePath": "",
+    "libName": "PIL",
+    "currentVersion": "5.4.1",
+    "targetVersion": "6.0.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/PIL5.4.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/PIL6.0.0"
+}

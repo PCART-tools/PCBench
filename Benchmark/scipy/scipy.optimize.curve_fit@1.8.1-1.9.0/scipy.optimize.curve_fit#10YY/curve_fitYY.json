@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/scipy/scipy.optimize.curve_fit@1.8.1-1.9.0/scipy.optimize.curve_fit#10YY",
+    "runCommand": "python curve_fitYY.py",
+    "runFilePath": "",
+    "libName": "scipy",
+    "currentVersion": "1.8.1",
+    "targetVersion": "1.9.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/scipy1.8.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/scipy1.9.0"
+}

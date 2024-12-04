@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/gensim/gensim.models.doc2vec.Doc2Vec.similarity_unseen_docs@4.0.1-4.1.0/gensim.models.doc2vec.Doc2Vec.similarity_unseen_docs#9YY",
+    "runCommand": "python similarity_unseen_docsYY.py",
+    "runFilePath": "",
+    "libName": "gensim",
+    "currentVersion": "4.0.1",
+    "targetVersion": "4.1.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/gensim4.0.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/gensim4.1.0"
+}

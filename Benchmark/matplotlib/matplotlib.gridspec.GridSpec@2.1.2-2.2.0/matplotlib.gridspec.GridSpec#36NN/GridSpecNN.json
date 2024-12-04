@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/matplotlib/matplotlib.gridspec.GridSpec@2.1.2-2.2.0/matplotlib.gridspec.GridSpec#36NN",
+    "runCommand": "python GridSpecNN.py",
+    "runFilePath": "",
+    "libName": "matplotlib",
+    "currentVersion": "2.1.2",
+    "targetVersion": "2.2.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/matplotlib2.1.2",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/matplotlib2.2.0"
+}

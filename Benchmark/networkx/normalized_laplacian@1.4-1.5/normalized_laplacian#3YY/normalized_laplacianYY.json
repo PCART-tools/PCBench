@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/networkx/normalized_laplacian@1.4-1.5/normalized_laplacian#3YY",
+    "runCommand": "python normalized_laplacianYY.py",
+    "runFilePath": "",
+    "libName": "networkx",
+    "currentVersion": "1.4",
+    "targetVersion": "1.5",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/networkx1.4",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/networkx1.5"
+}

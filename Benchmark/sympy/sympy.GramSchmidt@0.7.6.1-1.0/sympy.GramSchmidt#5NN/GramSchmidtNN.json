@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/sympy/sympy.GramSchmidt@0.7.6.1-1.0/sympy.GramSchmidt#5NN",
+    "runCommand": "python GramSchmidtNN.py",
+    "runFilePath": "",
+    "libName": "sympy",
+    "currentVersion": "0.7.6.1",
+    "targetVersion": "1.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/sympy0.7.6.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/sympy1.0"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/scipy/scipy.stats.rv_continuous@1.10.1-1.11.0/scipy.stats.rv_continuous#15YY",
+    "runCommand": "python rv_continuousYY.py",
+    "runFilePath": "",
+    "libName": "scipy",
+    "currentVersion": "1.10.1",
+    "targetVersion": "1.11.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/scipy1.10.1",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/scipy1.11.0"
+}

@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/polars/polars.repeat@0.17.14-0.17.15/polars.repeat#9YY",
+    "runCommand": "python repeatYY.py",
+    "runFilePath": "",
+    "libName": "polars",
+    "currentVersion": "0.17.14",
+    "targetVersion": "0.17.15",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/polars0.17.14",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/polars0.17.15"
+}

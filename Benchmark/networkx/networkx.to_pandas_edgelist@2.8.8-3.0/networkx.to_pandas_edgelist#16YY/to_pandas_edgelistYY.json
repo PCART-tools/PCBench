@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/networkx/networkx.to_pandas_edgelist@2.8.8-3.0/networkx.to_pandas_edgelist#16YY",
+    "runCommand": "python to_pandas_edgelistYY.py",
+    "runFilePath": "",
+    "libName": "networkx",
+    "currentVersion": "2.8.8",
+    "targetVersion": "3.0",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/networkx2.8.8",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/networkx3.0"
+}

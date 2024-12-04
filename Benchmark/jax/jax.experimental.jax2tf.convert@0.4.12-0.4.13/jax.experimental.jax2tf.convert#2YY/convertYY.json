@@ -1,0 +1,10 @@
+{
+    "projPath": "/home/nuaa/Projects/PCBench/Benchmark/jax/jax.experimental.jax2tf.convert@0.4.12-0.4.13/jax.experimental.jax2tf.convert#2YY",
+    "runCommand": "python convertYY.py",
+    "runFilePath": "",
+    "libName": "jax",
+    "currentVersion": "0.4.12",
+    "targetVersion": "0.4.13",
+    "currentEnv": "/dataset/zhang/anaconda3/envs/jax0.4.12",
+    "targetEnv": "/dataset/zhang/anaconda3/envs/jax0.4.13"
+}

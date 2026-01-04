@@ -47,7 +47,8 @@ mkdir envName
 tar -xzvf envName.tar.gz -C envName
 ```
 
-_Note: Some envs may still be missing system libraries (e.g., libopenblas.so.0), which should be installed using `apt`._
+_Note: Some envs may still be missing system libraries (e.g., libopenblas.so.0), which should be installed using `apt` or `conda`, e.g., `conda install -c conda-forge openblas
+`._
 
 
 ## Example of Parameter Mutation on `foo` for Generating Test Cases

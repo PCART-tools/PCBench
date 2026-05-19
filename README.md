@@ -88,3 +88,9 @@ Then, copy the configuration file to `PCART/Configure` and run command as follow
 ```shell
 python main.py -cfg config.json
 ```
+
+## License
+
+The code in this repository is licensed under the GNU Affero General Public License v3.0. See [LICENSE](./LICENSE) for details.
+
+The benchmark data, documentation, and evaluation artifacts in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
